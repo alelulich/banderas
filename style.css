@@ -1,0 +1,55 @@
+body{
+    background-color: darkslategrey;
+    margin-top: 10px;
+}
+.banderas{
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid white;
+}
+.h-celeste{
+    background-color: cornflowerblue;
+    height: 33.33%;
+}
+.h-blanco{
+    background-color: white;
+    height: 33.33%;
+}
+.v-azul{
+    background-color: blue;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+.v-blanco{
+    background-color: white;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+.v-rojo{
+    background-color: red;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+.v-verde{
+    background-color: green;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+.h-negro{
+    background-color: black;
+    height: 33.33%;
+}
+.h-amarillo{
+    background-color: yellow;
+    height: 33.33%;
+}
+.h-rojo{
+    background-color: red;
+    height: 33.33%;
+}
